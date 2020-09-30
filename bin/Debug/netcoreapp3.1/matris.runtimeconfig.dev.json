@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\feara\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\feara\\.nuget\\packages"
+    ]
+  }
+}

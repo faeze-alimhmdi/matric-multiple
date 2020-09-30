@@ -1,0 +1,13 @@
+G:\vs code\matris\bin\Debug\netcoreapp3.1\matris.exe
+G:\vs code\matris\bin\Debug\netcoreapp3.1\matris.deps.json
+G:\vs code\matris\bin\Debug\netcoreapp3.1\matris.runtimeconfig.json
+G:\vs code\matris\bin\Debug\netcoreapp3.1\matris.runtimeconfig.dev.json
+G:\vs code\matris\bin\Debug\netcoreapp3.1\matris.dll
+G:\vs code\matris\bin\Debug\netcoreapp3.1\matris.pdb
+G:\vs code\matris\obj\Debug\netcoreapp3.1\matris.csprojAssemblyReference.cache
+G:\vs code\matris\obj\Debug\netcoreapp3.1\matris.AssemblyInfoInputs.cache
+G:\vs code\matris\obj\Debug\netcoreapp3.1\matris.AssemblyInfo.cs
+G:\vs code\matris\obj\Debug\netcoreapp3.1\matris.csproj.CoreCompileInputs.cache
+G:\vs code\matris\obj\Debug\netcoreapp3.1\matris.dll
+G:\vs code\matris\obj\Debug\netcoreapp3.1\matris.pdb
+G:\vs code\matris\obj\Debug\netcoreapp3.1\matris.genruntimeconfig.cache
